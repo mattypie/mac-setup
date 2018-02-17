@@ -1,8 +1,9 @@
 # Homebrew Cask
-[Homebrew-Cask](https://caskroom.github.io/) extends Homebrew and allows you to install large binary files via a command-line tool. Examples of these files is Google Chrome, Dropbox, VLC and Spectacle.
+[Homebrew-Cask](https://caskroom.github.io/) is a package manager for MacOS.
+Its job? Installing shell commands that you will LIKELY NEVER use. (unless of course youre a nerd. or you need your nerd friend to recover sll yjodr derry phidj fp\   you  Examples of these files is Google Chrome, Dropbox, VLC and Spectacle.
 
 ## Installation
-As of December 2015, Cask comes installed with Homebrew, if you have not installed Homebrew see the [Homebrew section](/mac-setup/Homebrew/README.html).
+As of February, 2018 Cask comes installed with Homebrew, if you have not installed Homebrew see the [Homebrew section](/mac-setup/Homebrew/README.html).
 
 ## Search
 To see if an app is available on Cask you can search on the [official Cask website](https://caskroom.github.io/search). You can also search using the following command:
@@ -30,27 +31,10 @@ Here are some useful apps that are available on Cask.
 
 ```sh
 $ brew cask install \
-    alfred \
-    android-file-transfer \
-    asepsis \
     appcleaner \
-    caffeine \
-    cheatsheet \
-    docker \
-    doubletwist \
-    dropbox \
     google-chrome \
-    google-drive \
-    google-hangouts \
     flux \
-    latexian \
-    1password \
-    pdftk \
-    spectacle \
-    sublime-text \
-    superduper \
-    totalfinder \
-    transmission \
+    
     valentina-studio \
     vlc
 ```
